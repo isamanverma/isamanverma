@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently working on web development. <br>I am proficient with: Python, JavaScript, HTML, CSS, Node JS, Express, PUG<br>Collaborative team player with excellent communication and interpersonal skills.<br>I like to build projects
+Currently focused on web development, leveraging my skills to create engaging and dynamic user experiences.<br>
+Proficient in a range of technologies, including Python, JavaScript, HTML, CSS, Node.js, Express, and Pug.<br>
+A collaborative team player who excels in communication and interpersonal skills, valuing teamwork and effective collaboration.<br>
+Committed to continuous learning and staying up-to-date with the latest industry trends and best practices in web development.<br>
 
 
 ## 🌐 Socials:
