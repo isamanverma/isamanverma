@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Currently focused on web development, leveraging my skills to create engaging and dynamic user experiences.<br><br>💻 Proficient in a range of technologies, including Python, JavaScript, HTML, CSS, Node.js, Express, and Pug.<br><br>🤝 A collaborative team player who excels in communication and interpersonal skills, valuing teamwork and effective collaboration.<br><br>📚 Committed to continuous learning and staying up-to-date with the latest industry trends and best practices in web development.
+🌐 Currently focused on web development, leveraging my skills to create engaging and dynamic user experiences.<br>💻 Proficient in a range of technologies, including Python, JavaScript, HTML, CSS, Node.js, Express, and Pug.<br>🤝 A collaborative team player who excels in communication and interpersonal skills, valuing teamwork and effective collaboration.<br>📚 Committed to continuous learning and staying up-to-date with the latest industry trends and best practices in web development.
 
 
 ## 🌐 Socials:
